@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/darivsz/Aura-Core/main/assets/aura_social_icon.svg" width="120" alt="Aura Logo">
+  <img src="https://github.com/user-attachments/assets/05620111-7a51-4894-be16-f7befbb7517a" width="120" alt="Aura Logo">
+
   <h1>Aura Radio Player</h1>
   <p><b>Your Personal, Neon-Vibe Radio Hub for Google Chrome</b></p>
   
