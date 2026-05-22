@@ -9,6 +9,15 @@
 
 ---
 
+### What's new in version 1.3 (May 20)
+
+* **Station Logos:** Added support for fetching and displaying official radio station icons directly in the player bar.
+* **Live Track Metadata:** Introduced live metadata tracking – the player now retrieves and displays the current artist and song title for active streams.
+* **Notification Settings:** Added a new toggle in the Settings menu, giving you the ability to easily enable or disable system song notifications.
+* **UI Polish:** Refreshed and organized the layout of the Settings panel for a cleaner experience.
+
+---
+
 ## 🎵 About Aura
 **Aura** is a beautifully designed, minimalist radio player extension for Google Chrome. Built with a modern dark-neon aesthetic, Aura allows you to listen to your favorite radio stations, manage your own streams, and set smart audio schedules—all without keeping a heavy website open in your tabs.
 
