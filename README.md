@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/05620111-7a51-4894-be16-f7befbb7517a" width="120" alt="Aura Logo">
 
-  <h1>Aura Radio Player</h1>
+  <h1>Aura - Simple Radio Player</h1>
   <p><b>Your Personal, Neon-Vibe Radio Hub for Google Chrome</b></p>
   
   [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/aura-simple-radio-player/oignnoinnodbcimeobkdnipnjmdeoaaa) 
@@ -42,5 +42,5 @@ Aura is designed to respect your data.
 
 ---
 <div align="center">
-  <i>Crafted with ❤️ for radio lovers.</i>
+  <i>Crafted with ❤️ for radio and music lovers.</i>
 </div>
